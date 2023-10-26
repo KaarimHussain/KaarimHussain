@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kaarim</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<div align="right" style="height:500px; width:100%; float:right;">
+<div align="right" style="height:500px; width:500px; float:right;">
   <img height="100%" width="100%" src="https://document-export.canva.com/mE_CY/DAFwenmE_CY/15/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20231026%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231026T065116Z&X-Amz-Expires=37015&X-Amz-Signature=e2b55e9b1169ae21d9731f95e6ce6c92cbb79e41a9d41c211e4371c0baa6c810&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2026%20Oct%202023%2017%3A08%3A11%20GMT">
 </div>
 
