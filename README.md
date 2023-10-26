@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kaarim</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<iframe align="right" src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="400" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaarimhussain&label=Profile%20views&color=0e75b6&style=flat" alt="kaarimhussain" /> </p>
+<div align="right" style="height:500px; width:100%; float:right;">
+  <img>
+</div>
 
 - 🔭 I’m currently working on **School Ecommerce**
 
