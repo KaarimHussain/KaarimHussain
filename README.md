@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **School Ecommerce**
 
-- 🌱 I’m currently learning **PHP, laravel**
+- 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **Bootstrap, CSS3**
+- 💬 Ask me about **Bootstrap, CSS3, HTML, PHP,**
 
 - 📫 How to reach me **kaariminnocent@gmail.com**
 
