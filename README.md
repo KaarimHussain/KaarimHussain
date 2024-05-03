@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kaarim</h1>
 <h3 align="center">A frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **API's**
+- 🔭 I’m currently working on **Side Projects**
 
 - 🌱 I’m currently learning **Angular**
 
