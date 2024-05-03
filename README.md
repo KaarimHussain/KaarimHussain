@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **API's**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **Bootstrap, CSS3, HTML, PHP, JavaScript**
 
