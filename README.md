@@ -21,4 +21,6 @@
   <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">PHP, </span>
   <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">SQL, </span>
   <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">C#, </span>
+  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">.NET, </span>
+  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">ANGULAR, </span>
 </div>
