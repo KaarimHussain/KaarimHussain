@@ -23,4 +23,6 @@
   <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">C#, </span>
   <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">.NET, </span>
   <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">ANGULAR, </span>
+  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">ASP .NET Core MVC, </span>
+  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">Dart, </span>
 </div>
