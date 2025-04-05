@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kaarim</h1>
-<h3 align="center">PHP Web Developer | Web Designer</h3>
+<h3 align="center">ASP .NET | Angular Developer</h3>
 
 - 🔭 I’m currently working on **Side Projects**
 
-- 🌱 I’m currently learning **ASP.NET MVC CORE**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Bootstrap, CSS3, HTML, PHP, JavaScript**
 
