@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kaarim</h1>
 <h3 align="center">ASP .NET | Angular Developer</h3>
 
-- 🔭 I’m currently working on **Side Projects**
+- 🔭 I’m currently working on **Main Project**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Bootstrap, CSS3, HTML, PHP, JavaScript**
+- 💬 Ask me about **Bootstrap, CSS3, HTML, PHP, JavaScript, .NET, TypeScript**
 
 - 📫 How to reach me **kaariminnocent@gmail.com**
 
@@ -25,4 +25,6 @@
   <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">ANGULAR, </span>
   <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">ASP .NET Core MVC, </span>
   <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">Dart, </span>
+  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">Flutter, </span>
+  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">Firebase, </span>
 </div>
