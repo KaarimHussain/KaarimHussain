@@ -81,9 +81,9 @@ Open to: Collabs, Open Source Projects, AI Hackathons
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kaarim-hussain-bb2559270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:kaariminnocent@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/KaarimHussain"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
