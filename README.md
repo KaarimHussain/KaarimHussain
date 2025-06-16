@@ -1,30 +1,17 @@
-<h1 align="center">Hi 👋, I'm Muhammad Kaarim</h1>
-<h3 align="center">ASP .NET | Angular Developer</h3>
+<h1 align="center">Hey 👋, I'm Kaarim</h1>
+<h3 align="center">🚀 Software Engineer | Web Developer | AI Explorer</h3>
 
-- 🔭 I’m currently working on **Main Project**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Full-Stack+Web+Dev;DotNet+%7C+SQL+%7C+Angular+Pro;AI+Enthusiast+%7C+Tech+Visionary;Let's+Build+Cool+Stuff+Together!" alt="Typing SVG" />
+</p>
 
-- 🌱 I’m currently learning **React**
+---
 
-- 💬 Ask me about **Bootstrap, CSS3, HTML, PHP, JavaScript, .NET, TypeScript**
+## 💡 About Me
 
-- 📫 How to reach me **kaariminnocent@gmail.com**
-
-- 🖥 Check out my Portfolio ==> (https://portfolio-eno0roh3a-kaarimhussains-projects.vercel.app/)
-<h3 align="left">Languages and Tools:</h3>
-<div class="langWrap">
-  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">HTML, </span>
-  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">CSS, </span>
-  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">JAVASCRIPT, </span>
-  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">BOOSTRAP, </span>
-  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">JQUERY, </span>
-  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">MYSQL, </span>
-  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">PHP, </span>
-  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">SQL, </span>
-  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">C#, </span>
-  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">.NET, </span>
-  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">ANGULAR, </span>
-  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">ASP .NET Core MVC, </span>
-  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">Dart, </span>
-  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">Flutter, </span>
-  <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">Firebase, </span>
-</div>
+```yaml
+Name: Muhammad Kaarim
+Role: Software Engineer
+Tech Focus: Web Development | APIs | AI Integration
+Currently Building: Skillistan (AI-Powered Learning Platform)
+Open to: Collabs, Open Source Projects, AI Hackathons
