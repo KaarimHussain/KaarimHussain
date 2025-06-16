@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kaariminnocent@gmail.com**
 
-- 🖥 Check out my Portfolio ==> https://kaarimhussain.github.io/Portfolio/
+- 🖥 Check out my Portfolio ==> (https://portfolio-eno0roh3a-kaarimhussains-projects.vercel.app/)
 <h3 align="left">Languages and Tools:</h3>
 <div class="langWrap">
   <span style="padding:10px 25px; background-color:transparent; border:1px solid #fff; color:#fff;">HTML, </span>
