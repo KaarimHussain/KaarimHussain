@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Full-Stack+Web+Dev;DotNet+%7C+SQL+%7C+Angular+Pro;AI+Enthusiast+%7C+Tech+Visionary;Let's+Build+Cool+Stuff+Together!" alt="Typing SVG" />
 </p>
 
----
-
 ## 💡 About Me
 
 ```yaml
@@ -33,7 +31,10 @@ Open to: Collabs, Open Source Projects, AI Hackathons
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-indigo?style=flat\&logo=php\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat\&logo=json\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-black?style=flat\&logo=rest\&logoColor=white)
 
 ### 🧩 Frameworks & Libraries
 
@@ -71,7 +72,7 @@ Open to: Collabs, Open Source Projects, AI Hackathons
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KaarimHussain&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=KaarimHussain&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" /> -->
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=KaarimHussain&show_icons=true&theme=radical" alt="Stats" />
 </p>
@@ -89,3 +90,4 @@ Open to: Collabs, Open Source Projects, AI Hackathons
 ---
 
 *🚀 Always learning, always building. Let’s collaborate and make something awesome!*
+
