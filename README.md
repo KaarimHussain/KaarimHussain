@@ -62,10 +62,10 @@ Open to: Collabs, Open Source Projects, AI Hackathons
 
 | Project             | Tech                           | Description                                                                |
 | ------------------- | ------------------------------ | -------------------------------------------------------------------------- |
-| **Jobistan**        | PHP, MySQL, JS                 | A modern job portal with filtering, CV upload, and user management         |
-| **Skillistan** (🚧) | .NET Core, Angular, Gemini API | AI-powered skill learning platform with chatbots and course suggestion     |
-| **Artify**          | Angular + ASP.NET Core         | Art marketplace with payment integration, admin panel, and artist profiles |
-| **WhatsApp Clone**  | Flutter + Supabase             | Voice & text messaging clone app with real-time features                   |
+| **Jobistan**         | PHP, MySQL, JS                 | A modern job portal with filtering, CV upload, and user management         |
+| **Skillistan** (🚧) | .NET Core, Angular, Gemini API | AI-powered skill learning platform with chatbots and course suggestion      |
+| **Artify**          | Angular + ASP.NET Core         | Art marketplace with payment integration, admin panel, and artist profiles  |
+| **Watch Hub**       | Flutter + Firebase             | WatchHub is a premium watch shopping app built with Flutter                 |
 
 ---
 
