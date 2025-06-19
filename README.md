@@ -1,8 +1,14 @@
 # <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Hey+%F0%9F%91%8B%2C+I'm+Kaarim;Software+Engineer;Full-Stack+Developer;AI+Explorer)</div>
 
 <div align="center">
-  
-### 🚀 **Building the Future, One Line of Code at a Time**
+
+**Muhammad Kaarim**  
+*Full-Stack Developer & AI Enthusiast*
+
+Passionate about building scalable web applications and exploring AI technologies.  
+Currently developing **Skillistan** - an AI-powered learning platform.
+
+📍 **Pakistan** • 💼 **Open to Opportunities** • 🚀 **Always Learning**
 
 </div>
 
@@ -14,25 +20,20 @@
 🎯 Profile:
   name: "Muhammad Kaarim"
   role: "Software Engineer"
-  company: "Building the Future"
   location: "Pakistan 🇵🇰"
+  focus: "Full-Stack Development & AI Integration"
   
-🚀 Current Focus:
+🚀 Current Work:
   - building: "Skillistan (AI-Learning Platform)"
-  - exploring: ["AI/ML", "Cloud Architecture", "Web3"]
-  - learning: ["Advanced .NET", "AI Integration", "DevOps"]
+  - exploring: ["AI/ML", "Cloud Architecture", "Modern Web Tech"]
+  - mastering: [".NET Core", "Angular", "Database Design"]
   
-💡 Interests:
-  - code: ["Clean Architecture", "Scalable Systems"]
-  - tech: ["AI Tools", "Cloud Solutions", "Open Source"]
-  - life: ["Problem Solving", "Team Collaboration", "Innovation"]
+💡 Passionate About:
+  - Clean, maintainable code
+  - Solving real-world problems
+  - Learning new technologies
+  - Open source contributions
 ```
-
-<div align="center">
-
-### 🌟 ***"Code is like humor. When you have to explain it, it's bad."*** 
-
-</div>
 
 ---
 
