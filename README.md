@@ -123,7 +123,7 @@ Currently developing **Skillistan** - an AI-powered learning platform.
   <tr>
     <td>
       <div align="center">
-        <h3>🤖 Skillistan</h3>
+        <h3>🤖 Skillistan - (Underdevelopment)</h3>
         <p><strong>AI-Powered Learning Platform</strong></p>
         <p>
           <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white" />
