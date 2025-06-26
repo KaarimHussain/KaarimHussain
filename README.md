@@ -9,9 +9,6 @@ Passionate about building scalable web applications and exploring AI technologie
 Currently developing **Skillistan** - an AI-powered learning platform.
 
 📍 **Pakistan** • 💼 **Open to Opportunities** • 🚀 **Always Learning**
-
-</div>
-
 ---
 
 ## 💡 **About Me**
