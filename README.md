@@ -1,263 +1,238 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Hey+%F0%9F%91%8B%2C+I'm+Kaarim;Software+Engineer;Full-Stack+Developer;AI+Explorer)</div>
-
 <div align="center">
 
-**Muhammad Kaarim**  
-*Full-Stack Developer & AI Enthusiast*
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Kaarim;Full-Stack+Developer;AI+%26+Cloud+Enthusiast;Building+the+Future)
 
-Passionate about building scalable web applications and exploring AI technologies.  
-Currently developing **Skillistan** - an AI-powered learning platform.
-
-📍 **Pakistan** • 💼 **Open to Opportunities** • 🚀 **Always Learning**
----
-
-## 💡 **About Me**
-
-```yaml
-🎯 Profile:
-  name: "Muhammad Kaarim"
-  role: "Software Engineer"
-  location: "Pakistan 🇵🇰"
-  focus: "Full-Stack Development & AI Integration"
-  
-🚀 Current Work:
-  - building: "Skillistan (AI-Learning Platform)"
-  - exploring: ["AI/ML", "Cloud Architecture", "Modern Web Tech"]
-  - mastering: [".NET Core", "Angular", "Database Design"]
-  
-💡 Passionate About:
-  - Clean, maintainable code
-  - Solving real-world problems
-  - Learning new technologies
-  - Open source contributions
-```
-
----
-
-## 🛠️ **Skills & Technologies**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,js,ts,html,css,php,dart,dotnet,angular,react,bootstrap,flutter,mysql,postgres,supabase,firebase,git,github,vscode,visualstudio&theme=dark" />
 </div>
 
-### 🎨 **Frontend Development**
 <div align="center">
   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaarim-hussain-bb2559270)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaariminnocent@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const kaarim = {
+    location: "Pakistan 🇵🇰",
+    role: "Software Engineer",
+    focus: ["Full-Stack Development", "AI Integration", "Cloud Architecture"],
+    
+    currentProject: {
+        name: "Skillistan",
+        description: "AI-Powered Learning Platform",
+        tech: [".NET Core", "Angular", "Gemini AI"]
+    },
+    
+    passions: [
+        "Building scalable applications",
+        "Solving complex problems",
+        "Contributing to open source",
+        "Continuous learning"
+    ],
+    
+    availability: "Open to opportunities"
+};
+```
+
+<div align="center">
+  
+**🚀 Transforming ideas into elegant, scalable solutions**
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frontend Development
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</div>
+### Backend & Database
+![.NET](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚡ **Backend Development**
-<div align="center">
-  
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
-
-</div>
-
-### 🗄️ **Database & Cloud**
-<div align="center">
-  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### Cloud & Tools
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-</div>
-
-### 📱 **Mobile Development**
-<div align="center">
-  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-### 🎯 **Pinned Repositories**
+### 🤖 Skillistan
+**AI-Powered Learning Platform** • *In Development*
 
-</div>
+Revolutionizing online education with intelligent course recommendations and interactive AI assistance.
 
-<div align="center">
-<!--   <a href="https://github.com/KaarimHussain/Skillistan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaarimHussain&repo=Skillistan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" />
-  </a> -->
-  <a href="https://github.com/KaarimHussain/Jobistan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaarimHussain&repo=Jobistan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" />
-  </a>
-</div>
+**Tech Stack:** .NET Core • Angular • Gemini AI • SQL Server
 
-<div align="center">
-  <a href="https://github.com/KaarimHussain/Artify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaarimHussain&repo=Art-Web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" />
-  </a>
-  <a href="https://github.com/KaarimHussain/WatchHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaarimHussain&repo=Watch-Hub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" />
-  </a>
-</div>
+**Key Features:**
+- 🎯 Personalized course recommendations
+- 🤖 Interactive AI-powered chatbots
+- 📊 Real-time progress analytics
+- 💡 Adaptive learning paths
 
----
+[![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)](https://github.com/KaarimHussain/Skillistan)
 
-<div align="center">
+</td>
+<td width="50%">
 
-### 🏆 **Project Highlights**
+### 💼 Jobistan
+**Modern Job Portal Platform** • *Live*
 
-</div>
+Complete job marketplace connecting employers and job seekers with advanced features.
 
-<table align="center">
-  <tr>
-    <td>
-      <div align="center">
-        <h3>🤖 Skillistan - (Underdevelopment)</h3>
-        <p><strong>AI-Powered Learning Platform</strong></p>
-        <p>
-          <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white" />
-          <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-          <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white" />
-        </p>
-        <p>🎯 Intelligent course recommendations</p>
-        <p>🤖 Interactive AI chatbots</p>
-        <p>📊 Progress tracking & analytics</p>
-        <p>
-          <a href="#"><img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" /></a>
-        </p>
-      </div>
-    </td>
-    <td>
-      <div align="center">
-        <h3>💼 Jobistan</h3>
-        <p><strong>Modern Job Portal</strong></p>
-        <p>
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        </p>
-        <p>🔍 Advanced job filtering</p>
-        <p>📄 CV upload & management</p>
-        <p>👥 User & employer dashboards</p>
-        <p>
-          <a href="#"><img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" /></a>
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div align="center">
-        <h3>🎨 Artify</h3>
-        <p><strong>Art Marketplace</strong></p>
-        <p>
-          <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-          <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white" />
-          <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-        </p>
-        <p>💳 Payment integration</p>
-        <p>🎨 Artist profile management</p>
-        <p>🛡️ Comprehensive admin panel</p>
-        <p>
-          <a href="#"><img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" /></a>
-        </p>
-      </div>
-    </td>
-    <td>
-      <div align="center">
-        <h3>⌚ Watch Hub</h3>
-        <p><strong>Premium Watch Shopping App</strong></p>
-        <p>
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-        </p>
-        <p>📱 Cross-platform mobile app</p>
-        <p>🛒 Shopping cart & checkout</p>
-        <p>🔐 User authentication</p>
-        <p>
-          <a href="#"><img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" /></a>
-        </p>
-      </div>
-    </td>
-  </tr>
+**Tech Stack:** PHP • MySQL • JavaScript • Bootstrap
+
+**Key Features:**
+- 🔍 Smart job filtering & search
+- 📄 Resume management system
+- 👥 Dual dashboards (User/Employer)
+- 📧 Automated notifications
+
+[![View Project](https://img.shields.io/badge/View_Project-0078D4?style=flat-square&logo=github)](https://github.com/KaarimHussain/Jobistan)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎨 Artify
+**Digital Art Marketplace** • *Completed*
+
+E-commerce platform for artists to showcase and sell their digital artwork.
+
+**Tech Stack:** Angular • ASP.NET Core • SQL Server
+
+**Key Features:**
+- 💳 Secure payment integration
+- 🎨 Artist portfolio management
+- 🛡️ Comprehensive admin panel
+- 🖼️ Gallery & collection system
+
+[![View Project](https://img.shields.io/badge/View_Project-0078D4?style=flat-square&logo=github)](https://github.com/KaarimHussain/Artify)
+
+</td>
+<td width="50%">
+
+### ⌚ Watch Hub
+**Premium Watch E-Commerce App** • *Completed*
+
+Cross-platform mobile application for luxury watch shopping with seamless UX.
+
+**Tech Stack:** Flutter • Firebase • Dart
+
+**Key Features:**
+- 📱 Native iOS & Android experience
+- 🛒 Smart cart & checkout flow
+- 🔐 Secure authentication
+- 📦 Order tracking system
+
+[![View Project](https://img.shields.io/badge/View_Project-0078D4?style=flat-square&logo=github)](https://github.com/KaarimHussain/WatchHub)
+
+</td>
+</tr>
 </table>
 
 <div align="center">
-  <p>
-    <a href="https://github.com/KaarimHussain?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/View%20All%20Projects-0078D4?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
+
+[![View All Projects](https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaarimHussain?tab=repositories)
+
 </div>
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaarimHussain&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="100%"/>
-</div>
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KaarimHussain&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KaarimHussain&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
-<details>
-  <summary><b>⚡ GitHub Stats</b></summary>
-  <br/>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaarimHussain&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaarimHussain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  </div>
-</details>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaarimHussain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaarimHussain&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true" />
 
-<details>
-  <summary><b>🔥 GitHub Streaks</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaarimHussain&theme=tokyonight&hide_border=true&background=0D1117" width="60%"/>
-  </div>
-</details>
-
-<details>
-  <summary><b>📈 Activity Graph</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaarimHussain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%"/>
-  </div>
-</details>
-
----
-
-## 🤝 **Connect with Me**
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kaarim-hussain-bb2559270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kaariminnocent@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/KaarimHussain" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KaarimHussain&style=for-the-badge&color=blue" alt="Profile Views"/>
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KaarimHussain&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
+
 </div>
 
 ---
 
+## 💼 Professional Highlights
+
 <div align="center">
 
-### 💫 ***"Innovation distinguishes between a leader and a follower."*** - Steve Jobs
+```diff
++ Full-Stack Development: 3+ years of building scalable applications
++ AI Integration: Implementing cutting-edge AI solutions in production
++ Database Design: Architecting robust, normalized database schemas
++ Cloud Services: Experience with Firebase, Supabase, and cloud deployment
++ Mobile Development: Cross-platform apps with Flutter
++ Team Collaboration: Git workflows and agile methodologies
+```
 
-**⭐ Star my repositories if you find them interesting!**
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm always interested in discussing new projects, creative ideas, or opportunities to collaborate.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Kaarim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaarim-hussain-bb2559270)
+[![Email](https://img.shields.io/badge/Email-kaariminnocent@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaariminnocent@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-KaarimHussain-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaarimHussain)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=KaarimHussain&style=for-the-badge&color=00D9FF)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"The best way to predict the future is to invent it."* - Alan Kay
+
+**⭐ If you find my work interesting, consider giving it a star!**
+
+*Made with ❤️ by Muhammad Kaarim*
 
 </div>
