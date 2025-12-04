@@ -25,7 +25,7 @@ const kaarim = {
     currentProject: {
         name: "Skillistan",
         description: "AI-Powered Learning Platform",
-        tech: [".NET Core", "Angular", "Gemini AI"]
+        tech: [".NET", "React", "Express", "Node Js", "MongoDB"]
     },
     
     passions: [
