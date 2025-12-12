@@ -88,8 +88,8 @@ const kaarim = {
 <tr>
 <td width="50%">
 
-### 🤖 Skillistan
-**AI-Powered Learning Platform** • *In Development*
+### 🤖 Skill-Ustad
+**AI-Powered Learning Platform** • *Completed*
 
 Revolutionizing online education with intelligent course recommendations and interactive AI assistance.
 
@@ -107,7 +107,7 @@ Revolutionizing online education with intelligent course recommendations and int
 <td width="50%">
 
 ### 💼 Jobistan
-**Modern Job Portal Platform** • *Live*
+**Modern Job Portal Platform** • *Completed*
 
 Complete job marketplace connecting employers and job seekers with advanced features.
 
