@@ -101,7 +101,7 @@ Revolutionizing online education with intelligent course recommendations and int
 - 📊 Real-time progress analytics
 - 💡 Adaptive learning paths
 
-[![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)](https://github.com/KaarimHussain/Skillistan)
+[![View Project](https://img.shields.io/badge/View_Project-0078D4?style=flat-square&logo=github)](https://github.com/KaarimHussain/Jobistan)
 
 </td>
 <td width="50%">
