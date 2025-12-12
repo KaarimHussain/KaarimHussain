@@ -93,7 +93,7 @@ const kaarim = {
 
 Revolutionizing online education with intelligent course recommendations and interactive AI assistance.
 
-**Tech Stack:** .NET Core • Angular • Gemini AI • SQL Server
+**Tech Stack:** .NET Core • React • Ollama • Gemini AI • SQL Server
 
 **Key Features:**
 - 🎯 Personalized course recommendations
