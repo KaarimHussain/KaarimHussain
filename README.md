@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Muhammad+Kaarim;Full-Stack+Software+Engineer;Building+Scalable+Cloud+Solutions;Transforming+Ideas+into+Code)](https://git.io/typing-svg)
