@@ -1,4 +1,3 @@
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Muhammad+Kaarim;Full-Stack+Software+Engineer;Building+Scalable+Cloud+Solutions;Transforming+Ideas+into+Code)](https://git.io/typing-svg)
@@ -13,13 +12,14 @@
 ---
 
 ### 👨‍💻 Identity Matrix
-
 ```javascript
 const kaarim = {
   role: "Full-Stack Software Engineer",
   location: "Pakistan 🇵🇰",
-  languages: ["TypeScript", "C#", "Dart", "PHP"],
-  focus: ["Full-Stack Architecture", "AI Integration", ".NET Core"],
+  primaryStack: ["MongoDB", "Express.js", "React.js", "Node.js", ".NET Core"],
+  specialization: "MERN Stack + .NET Framework",
+  languages: ["JavaScript", "TypeScript", "C#", "PHP", "Dart"],
+  focus: ["Full-Stack Architecture", "AI Integration", "Cloud Solutions"],
   currentGoal: "Building AI-Powered Learning Platforms",
   challenge: function() {
     return "Transforming complex problems into elegant solutions.";
@@ -29,13 +29,64 @@ const kaarim = {
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🎯 Primary Tech Stack
 
 <div align="center">
 
-![Tech Stack Line 1](https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,angular,flutter,dart,php,html,css,bootstrap&theme=dark)
+**MERN Stack + .NET Specialist**
 
-![Tech Stack Line 2](https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,git,github,vscode,visualstudio,postman,vercel&theme=dark)
+![Primary Stack](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,dotnet&theme=dark)
+
+</div>
+
+---
+
+### 💻 Complete Technology Arsenal
+
+#### Languages & Databases
+
+<div align="center">
+
+![Languages](https://skillicons.dev/icons?i=js,ts,cs,php,dart&theme=dark)
+
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark)
+
+</div>
+
+#### Frameworks & Libraries
+
+<div align="center">
+
+![Frameworks Row 1](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet&theme=dark)
+
+![Frameworks Row 2](https://skillicons.dev/icons?i=angular,flutter,jquery,wordpress,bootstrap,tailwind&theme=dark)
+
+</div>
+
+#### Development Tools
+
+<div align="center">
+
+![Dev Tools](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,postman,vercel&theme=dark)
+
+</div>
+
+#### AI & Machine Learning Tools
+
+<div align="center">
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-00D9FF?style=for-the-badge&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-FF6B35?style=for-the-badge&logoColor=white)
+
+![Kimi](https://img.shields.io/badge/Kimi-FF69B4?style=for-the-badge&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
 
 </div>
 
@@ -47,26 +98,9 @@ const kaarim = {
 |---------|-------------|-------|
 | **[Skill-Ustad](https://github.com/KaarimHussain/Skill-Ustad)** | AI-Powered Learning Platform revolutionizing education with intelligent course recommendations | .NET, React, Gemini AI |
 | **[Jobistan](https://github.com/KaarimHussain/Jobistan)** | Modern Job Portal - Complete marketplace connecting employers and seekers | PHP, MySQL, Bootstrap |
-| **[Artify](https://github.com/KaarimHussain/Artify)** | Digital Art Marketplace - E-commerce for artists to sell artwork securely | Angular, .NET, SQL |
+| **[Artify](https://github.com/KaarimHussain/Artify)** | Digital Art Marketplace - E-commerce for artists to sell artwork securely | Angular, .NET, SQL Server |
 | **[Watch Hub](https://github.com/KaarimHussain/WatchHub)** | Luxury E-Commerce App - Cross-platform mobile app for watch shopping | Flutter, Firebase, Dart |
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaarimHussain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaarimHussain&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaarimHussain&theme=tokyonight&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=KaarimHussain&theme=tokyonight&no-frame=true&no-bg=true&column=7&title_color=00D9FF)
-
-</div>
-
----
 
 <div align="center">
 
@@ -75,4 +109,3 @@ const kaarim = {
 ![Profile Views](https://komarev.com/ghpvc/?username=KaarimHussain&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-```
