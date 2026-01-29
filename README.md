@@ -35,7 +35,7 @@ const kaarim = {
 
 **MERN Stack + .NET Specialist**
 
-![Primary Stack](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,dotnet&theme=dark)
+![Primary Stack](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,dotnet&theme=dark)
 
 </div>
 
